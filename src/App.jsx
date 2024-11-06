@@ -1,10 +1,12 @@
 import "./App.css";
-import SocialLink from "./components/SocialLink";
+import BlogPreviewCard from "./components/BlogPreviewCard";
+// import SocialLink from "./components/SocialLink";
 
 function App() {
   return (
     <>
-      <SocialLink />
+      {/* <SocialLink /> */}
+      <BlogPreviewCard />
     </>
   );
 }
