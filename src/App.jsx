@@ -1,12 +1,14 @@
 import "./App.css";
-import BlogPreviewCard from "./components/BlogPreviewCard";
+import Rating from "./components/Rating";
 // import SocialLink from "./components/SocialLink";
+// import BlogPreviewCard from "./components/BlogPreviewCard";
 
 function App() {
   return (
     <>
       {/* <SocialLink /> */}
-      <BlogPreviewCard />
+      {/* <BlogPreviewCard /> */}
+      <Rating />
     </>
   );
 }
