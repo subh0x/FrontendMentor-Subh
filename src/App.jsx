@@ -1,5 +1,6 @@
 import "./App.css";
-import Rating from "./components/Rating";
+import NFTCard from "./components/NFTCard";
+// import Rating from "./components/Rating";
 // import SocialLink from "./components/SocialLink";
 // import BlogPreviewCard from "./components/BlogPreviewCard";
 
@@ -8,7 +9,8 @@ function App() {
     <>
       {/* <SocialLink /> */}
       {/* <BlogPreviewCard /> */}
-      <Rating />
+      {/* <Rating /> */}
+      <NFTCard />
     </>
   );
 }
